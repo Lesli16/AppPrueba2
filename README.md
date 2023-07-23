@@ -3,7 +3,7 @@
 
 Realizado por Lesli Llango - Naydelin Pardo 
 
-Prepárate para descubrir una experiencia única, diseñada para hacer tu vida más fácil y emocionante. Aplicacion con una base de datos y busqueda rapida de los datos ingresados de los estudiantes de la Universidad de las Fuerzas Armadas Espe. 
+Prepárate para descubrir una experiencia única, diseñada para hacer tu vida más fácil y emocionante. Aplicación con una base de datos y busqueda rápida de los datos ingresados de los estudiantes de la Universidad de las Fuerzas Armadas Espe. 
 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
